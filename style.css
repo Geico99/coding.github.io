@@ -1,0 +1,26 @@
+header {
+
+font-family: 'Abril Fatface', cursive;
+  color: grey;
+  position: absolut; 
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+
+}
+
+img {
+  width: 1000px;
+  height: 300px;
+}
+
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  color: grey;
+}
+
+main {
+  font-family: 'Josefin Sans', sans-serif;
+  color: grey;
+}
